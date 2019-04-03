@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A not that welcome new users
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It help people git more confritable with github
 
 ## Getting started
 
